@@ -1,15 +1,14 @@
-# Hey Hey Hey! I'm Gabriel and this is my Github ☜(ﾟヮﾟ☜) 
-
+# Hey Hey Hey! I'm Gabriel and this is my Github ʕ•ᴥ•ʔ
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media1.tenor.com/images/dc934b5ef0b376eb48490fcbb0092099/tenor.gif?itemid=9051183" />
 
 ## About me
 
-- 📚 Just studying CS in University of São Paulo.
+- 📚 Studying CS in University of São Paulo.
 - 🔍 Building knowledge at [Ganesh](https://ganesh.icmc.usp.br/) and [SEMCOMP](https://semcomp.icmc.usp.br/)
 - 💻 Looking forward to know more about Information Security.
-- 📖 Love reading to classic literature.
-- 🏊 My habitat is underwater. Swimming is my life's passion (unfortunately without it during pandemic).
-- 🏋 Working out always to keep ready to race.
+- 📖 Love reading to literature and mangas.
+- 🏊 My habitat is underwater. Swimming is my life's passion and currently putting a great effort into Volleyball.
+- 🏋 Working out always to keep ready to race and play.
 - 🚀 Always up for new challenges!
 
 <a href="https://github.com/GKuabara/GKuabara">
