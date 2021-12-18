@@ -4,10 +4,10 @@
 ## About me
 
 - 📚 Studying CS in University of São Paulo.
-- 🔍 Building knowledge at [Ganesh](https://ganesh.icmc.usp.br/) and [SEMCOMP](https://semcomp.icmc.usp.br/)
-- 💻 Looking forward to know more about Information Security.
+- 🔍 Building knowledge at [CodeLab](https://codelab-icmc.netlify.app/) and [SEMCOMP](https://semcomp.icmc.usp.br/)
+- 💻 Looking forward to know more about web development, events organization and data science.
 - 📖 Love reading to literature and mangas.
-- 🏊 My habitat is underwater. Swimming is my life's passion and currently putting a great effort into Volleyball.
+- 🏊 My habitat is underwater. Swimming is my life's passion.
 - 🏋 Working out always to keep ready to race and play.
 - 🚀 Always up for new challenges!
 
