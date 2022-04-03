@@ -4,8 +4,8 @@
 ## About me
 
 - 📚 Studying CS in University of São Paulo.
-- 🔍 Building knowledge at [CodeLab](https://codelab-icmc.netlify.app/) and [SEMCOMP](https://semcomp.icmc.usp.br/)
-- 💻 Looking forward to know more about web development, events organization and data science.
+- 🔍 Building knowledge at [SEMCOMP](https://semcomp.icmc.usp.br/)
+- 💻 Looking forward to know more about Machine Learning, mainly Deep Learning.
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
 - 🏋 Working out always to keep ready to race and play.
