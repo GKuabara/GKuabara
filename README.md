@@ -4,7 +4,7 @@
 ## About me
 
 - 📚 Studying CS in University of São Paulo.
-- 🔍 Building knowledge at [SEMCOMP](https://semcomp.icmc.usp.br/) [DATA](http://data.icmc.usp.br/)
+- 🔍 Building knowledge at [SEMCOMP](https://semcomp.icmc.usp.br/) and [DATA](http://data.icmc.usp.br/)
 - 💻 Looking forward to know more about Machine Learning, mainly Deep Learning.
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
