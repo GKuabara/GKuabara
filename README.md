@@ -3,9 +3,9 @@
 
 ## About me
 
-- 📚 Studying CS in University of São Paulo.
-- 🔍 Building knowledge at [SEMCOMP](https://semcomp.icmc.usp.br/) and [DATA](http://data.icmc.usp.br/)
-- 💻 Looking forward to know more about Machine Learning, mainly Deep Learning.
+- 📚 Studying CS at the University of São Paulo.
+- 🔍 Building knowledge at Serasa Experian.
+- 💻 Looking forward to knowing more about Machine Learning, Deep Learning, Data Engineering, and Software Engineering.
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
 - 🏋 Working out always to keep ready to race and play.
