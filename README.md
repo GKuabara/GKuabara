@@ -1,8 +1,8 @@
 # Hi there, I'm Gabriel!
 
 <div align="center" style="display: flex; justify-content: center;">
-	<img height="270px" width="450px" alt="GIF" src="https://media1.tenor.com/images/dc934b5ef0b376eb48490fcbb0092099/tenor.gif?itemid=9051183"/>
-	<img height="270px" width="450px" alt="GIF" src="https://i.gifer.com/1Lnp.gif"/>
+	<img height="210px" width="350px" alt="GIF" src="https://media1.tenor.com/images/dc934b5ef0b376eb48490fcbb0092099/tenor.gif?itemid=9051183"/>
+	<img height="210px" width="350px" alt="GIF" src="https://i.gifer.com/1Lnp.gif"/>
 </div>
 
 ## About me
