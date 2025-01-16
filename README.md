@@ -14,13 +14,13 @@
 - 🏊 My habitat is underwater. Swimming is my life's passion.
 
 <a href="https://github.com/GKuabara/GKuabara">
-	<img width="350px" height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=GKuabara&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats"/>
+	<img width="300" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=GKuabara&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats"/>
 </a>
 <a href="https://github.com/GKuabara/GKuabara">
-	<img width="350px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKuabara&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+	<img width="300" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKuabara&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
-<br></br><br></br><br></br><br></br><br></br><br></br>
+<br></br>
 
 ## Programming Languages, Frameworks, Tools
 
