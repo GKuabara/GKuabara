@@ -13,12 +13,14 @@
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
 
-<a href="https://github.com/GKuabara/GKuabara">
-	<img width="300" height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=GKuabara&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats"/>
-</a>
-<a href="https://github.com/GKuabara/GKuabara">
-	<img width="300" height="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKuabara&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
+<div align="center" style="display: flex; justify-content: center;">
+	<a href="https://github.com/GKuabara/GKuabara">
+		<img width="300" height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=GKuabara&show_icons=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gabriel's GitHub Stats"/>
+	</a>
+	<a href="https://github.com/GKuabara/GKuabara">
+		<img width="300" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GKuabara&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+	</a>
+</div>
 
 ## Programming Languages, Frameworks, Tools
 
