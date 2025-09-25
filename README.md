@@ -12,7 +12,7 @@
 - 💻 Learning about Data Engineering and Software Engineering.
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
-- Here is my CV: [Download CV](https://github.com/your-username/your-repo/raw/main/cv.pdf)
+- Here is my CV: [Download CV](https://github.com/GKuabara/GKuabara/blob/main/Gabriel_Kuabara_resume_english.pdf)
 
 <div align="center" style="display: flex; justify-content: center;">
 	<a href="https://github.com/GKuabara/GKuabara">
