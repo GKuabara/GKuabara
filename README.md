@@ -8,7 +8,7 @@
 ## About me
 
 - 📚 Graduated in Computer Science at the University of São Paulo.
-- 🔍 Data Engineer at Experian.
+- 🔍 Software Developer at Amazon.
 - 💻 Learning about Data Engineering and Software Engineering.
 - 📖 Love reading to literature and mangas.
 - 🏊 My habitat is underwater. Swimming is my life's passion.
@@ -31,9 +31,7 @@
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/c-%23323330.svg?&style=for-the-badge&logo=c&logoColor=%23ffffff">
-	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+	<img src="https://img.shields.io/badge/java-%23777BB4?style=for-the-badge&logo=java&logoColor=white"/>
 	<br></br>
 	<img src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white">
 	<img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
